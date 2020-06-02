@@ -1,0 +1,20 @@
+nav {
+  background-color:MistyRose;
+  position:fixed;
+  width:100vw;
+}
+p {
+    color: rgb(4, 0, 255);
+    text-align: center;
+  }
+  body {
+    color: blue;
+  }
+  
+  h1 {
+    color: green;
+  }
+section { 
+  padding-top:20px;
+ 
+}
