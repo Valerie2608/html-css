@@ -1,0 +1,48 @@
+
+
+.section1 {color: yellow}
+p {
+    color: white(4, 0, 255);
+}
+  body {
+    color:black;
+  
+  }
+  
+  h1 {
+    color: white;
+  }
+  
+  h1 {
+    background-color: black;
+  }
+  
+  h2 {
+    background-color: black;
+    color: white;
+  }
+  
+  h3 {
+    background-color: black;
+    color: white;
+  }
+  
+
+  div {
+    background-color: grey;
+  }
+  
+  p {
+    background-color: blueviolet;
+  }
+
+  header {
+    text-shadow: 2px 2px red;
+    text-align: center;
+    font-family: verdana;
+  font-size: 80px;
+  p.solid {border-style: solid;}
+
+  }
+
+ 
