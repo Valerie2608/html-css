@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+display: block;
+background-color: rgb(186, 243, 247);
+}
+
+header {
+display: block;
+padding: 1em;
+}
+
+body {
+  color:palevioletred;
+}
+
+h1 {
+  color:purple;
+}
+
+
+.sansserif {
+  font-family: Arial;
+}
+
+ 
